@@ -1,0 +1,20 @@
+
+.operator-container{
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+}
+canvas{
+  background-color:lightblue;
+  display:block;
+  margin:0 auto;
+}
+#run_game{
+  width:337px;
+  height:75px;
+  margin:0 auto;
+  position:relative;
+  top:-280px;
+  background:url(../img/gamebegin.png);
+  cursor:pointer;
+}
